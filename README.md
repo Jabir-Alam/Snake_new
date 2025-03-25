@@ -1,0 +1,1 @@
+open snake new.exe
