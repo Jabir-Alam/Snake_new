@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573225810 source:c:\users\swoccho\documents\c++\snake new\main.cpp
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<cstring>
+
